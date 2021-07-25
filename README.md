@@ -1,4 +1,4 @@
-# Operasi-Number
+# Operasi-Number-Studycle
 
 Cara menggunakan program ini
   1. User memasukkan jumlah elemen array yang ingin dimasukkan (cth: 3)
